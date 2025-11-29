@@ -1,40 +1,6 @@
 <!DOCTYPE>
 <html>
 <head>
-<style>
-.title{
-  padding: 5px;
-  font-size: 40px;
-  text-align: center;
-  background-color:#e06377;
-}
-ul{
-   list-style-type:none;
-   margin:0;
-   border:0;
-   background-color: #f9d5e5;
-   overflow:hidden;
-}
-ul li{
-   float:left;
-}
-ul li a{
-   display:block;
-   padding:10px 12px;
-   font-size:15px;
-   color:black;
-   text-decoration:none;
-}
-ul li a:hover{
-   background-color: #e06377;
-}
-div:hover p2{
-      color: #e06377;
-      background-color:#f9d5e5;
-}
-
-</style>
-</head>
 <body>
 <div class="title">
  <h1> BOOK REVIEW </h1>
